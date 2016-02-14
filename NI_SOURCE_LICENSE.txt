@@ -1,0 +1,31 @@
+source:
+http://www.nidirect.gov.uk/osni
+http://osni.spatial-ni.opendata.arcgis.com/
+
+license:LPS OPEN DATA
+Land & Property Services (LPS) has made a number of Ordnance Survey of
+Northern Ireland® (OSNI®) branded datasets available free of charge under the
+terms of the current Open Government Licence (OGL). These datasets – which
+include raster and vector mapping, boundary, gazetteer, height, street and townland
+products – are available for download. Each dataset is clearly marked with the OGL
+symbol shown below
+The OGL allows you to:
+• copy, distribute and transmit the data;
+• adapt the data; and
+• exploit the data commercially, whether by sub-licensing it, combining it with
+other data, or including it in your own product or application.
+You are therefore able to use the LPS datasets in any way and for any purpose. We
+simply ask that you acknowledge the copyright and the source of the data by
+including the following attribution statement:
+Contains LPS Intellectual Property © Crown copyright and database right (year)
+This information is licensed under the terms of the Open Government Licence
+(http://www.nationalarchives.gov.uk/doc/open-government-licence/version/3).
+You must also:
+• include the same acknowledgement requirement in any sub-licences of the
+data that you grant, and a requirement that any further sub-licences do the
+same;
+• ensure that you do not use the data in a way that suggests LPS endorses you
+or your use of the data; and
+• make sure you do not misrepresent the data or its source.
+N.B. Any dataset that does not expressly state that it has been released under OGL will
+require a licence from LPS and the appropriate licence fee will be applied.
